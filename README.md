@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋 
+😁😁😁
+### Some Proyects In NETLIFLY:
+🟠 Proyecto realizado solo con HTML y CSS: 
+ - https://proyecto-1-html-css-morales.netlify.app/
+ 
+ 🟠 Proyecto de FrondEnd Mentor:
+ 
+- https://bootstrap-frontend-mentor-proyect.netlify.app/
 
 <!--
 **Julio-C-M/Julio-C-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
